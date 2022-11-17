@@ -35,9 +35,9 @@ Additional Comments:
    Circle CI: Added to imitate automated pipelines from testing to deployment
    
    Assumptions:  
-        The input format should be correct
-        The text input can contain the following keywords: "add","sub","mult" and/or "div"
-        The closing and opening brackets must match
+        The input format should be correct,
+        The text input can contain the following keywords: "add","sub","mult" and/or "div",
+        The closing and opening brackets must match,
         Each function accepts exactly 2 numbers
    
    Testing:
